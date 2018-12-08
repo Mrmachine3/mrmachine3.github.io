@@ -1,7 +1,7 @@
 # Name of your site (displayed in the header)
 name: Machine Init 
 description: Information Security, Infrastructuire and Networking Blog
-avatar: /master/images/jekyll-logo.png
+avatar: /master/images/ironman-bw.png
 footer-links:
   email: info.machineinit@gmail.com
   github: Mrmachine3 
@@ -12,22 +12,21 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+# disqus: machineinit
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
+  id: UA-129648495-1 # Add tracking id  with Google Analytics
+  anonymizeIp: false # set true - to anonymize tracking of IP
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# (http://mrmachine3.github.io)
 baseurl: ""
 
-#
 # !! You don't need to change any of the configuration flags below !!
 permalink: /:title/
 version: v1.2.0
