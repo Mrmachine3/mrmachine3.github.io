@@ -18,21 +18,22 @@ html {
 }
 
 body {
-	background: $white;
+  background: $lightGray;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 980px;
   padding: 0 10px;
   width: 100%;
+  color: $darkGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $darkGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +70,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $slategray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -152,11 +153,12 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 20px;
+  color: $slategray;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $slategray;
 
   @include mobile {
     text-align: center;
@@ -192,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $slategray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $slategray;
   font-size: 16px;
 
   @include mobile {
@@ -214,18 +216,18 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 16p6p6p6p6p6px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 7px;
     display: block;
     font-size: 16px;
   }
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $slategray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -275,11 +277,11 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $slategray;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: center;
 }
 
