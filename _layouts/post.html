@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /blog/
+comments: true
 ---
 
 <article class="post">
@@ -22,6 +23,7 @@ permalink: /blog/
       </tr>
     </table>
   </div>-->
-
-  {% include disqus.html %}
 </article>
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
