@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Second Blog Post! 
+title: Why Machine Init?! 
 permalink: /blog/
 ---
 
@@ -8,6 +8,12 @@ permalink: /blog/
 ![Iron Man Showroom](/images/Ironman_couch.jpg)
 
 -----
+
+### Ideas: 
++ Write about git init comparison
++ reference Mr. Machine's initialization into domain area of study
++ Write about upcoming commencement of master's program
++ 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut laoreet nibh a volutpat viverra. Praesent suscipit nibh non ex commodo, eu dignissim lectus efficitur. Suspendisse mattis pellentesque pretium. Sed finibus ex auctor nunc scelerisque, id suscipit nisl consectetur. Quisque at posuere risus. Nunc eget tincidunt ex, id eleifend ipsum. Suspendisse scelerisque molestie lectus in maximus.
 
