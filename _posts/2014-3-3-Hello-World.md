@@ -63,7 +63,7 @@ Cool, right?!
 
 Ok, let's move on!
 
-### What is audit?! What is IT audit?l 
+### What is audit?! What is IT audit?! 
 Simply put, internal audit teams play a large role in evaluating business processes, risk management strategies and compliance initiatives in place to reduce or eliminate risks to the company, its computing resources, its employees, and their customers. Internal audit teams provide assurance over the integrity of controls over financial statements. 
 
 In my opinion, I believe IT audit goes, a level deeper into evaluating a company's supporting technologies and IT processes. IT audits help provide assurance over the confidentiality, integrity, and availability of critical business data and underlying information systems, including an organization's cybersecurity posture.
