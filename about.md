@@ -6,7 +6,7 @@ permalink: /about/
 
 ![banner](/images/banner.png)
 
-<!--- #### **Reading time:** {{ content | reading_time_as_i }}--->
+-----
 
 I grew up near the Chicagoland area and officially moved to Chicago, IL when I started college in 2009. In 2015, I earned my Bachelor's degree in Accounting and Management Information Systems from DePaul University. A bit of backstory though...a few quarters into the start of my degree, I realized I needed to bridge the gap between finance/accounting professionals and information systems/technology professionals. I figured that if I generally know how accounting and IT stuff work, I could convey business processes to information systems professionals and vice versa. 
 

@@ -7,7 +7,6 @@ permalink: /projects/
 ![banner](/images/banner.png)
 
 ----
-##### **Reading time:** {{ content | reading_time_as_i }}
 
 ##### [4RPi Cluster - ELK Stack](https://github.com/mrmachine3/)
 This github repository contains project files related to building a four node Raspberry Pi cluster and automating the configuration of the cluster to host an Elasticsearch, Logstash, Kibana stack, commonly referred to as an ELK stack. The purpose of this is to monitor web traffic on my local area network (LAN) by analyzing packet captures and event logs from endpoint devices, such as routers, firewalls, and connected devices such as a ***[RPiZ security camera] [1]***.
