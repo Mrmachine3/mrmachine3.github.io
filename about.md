@@ -1,12 +1,33 @@
 --- 
 layout: page
-# title: About
+#title: About Me
 permalink: /about/
 ---
 
 ![banner](/images/banner.png)
 
 -----
+
+### Greetings!
+
+Thank you for visiting my website. I'll admit this is my first site...***EVER*** and my goals may seem a bit far-fetched to some; however, I'm determined to accomplish them and provide great, relevant content to my readers.
+
+My objectives include the following:
++ Reteaching concepts learned on the job and from school to reaffirm my understanding of the topics
++ Improving my writing skills by producing clear and concise content, including blog posts, code explanations and enhance my technical writing (for work purposes)
++ Writing all my blog content using markdown syntax
++ Actively using the widely distributed and fairly common text editor known as Vim
++ Maintain my own site, including the front-end design, back-end configurations, and python applications 
+
+I seek to make this site a medium where I can share my passion for techonology, especially information security, programming and Internet of Things (IoT) devices.
+
+If you have any questions, comments or seek to collaborate on a project, please send me an email at the following email address:
+
+***[info.machineinit@gmail.com](mailto:info.machineinit@gmail.com)***
+
+-----
+
+### About Me
 
 I grew up near the Chicagoland area and officially moved to Chicago, IL when I started college in 2009. In 2015, I earned my Bachelor's degree in Accounting and Management Information Systems from DePaul University. A bit of backstory though...a few quarters into the start of my degree, I realized I needed to bridge the gap between finance/accounting professionals and information systems/technology professionals. I figured that if I generally know how accounting and IT stuff work, I could convey business processes to information systems professionals and vice versa. 
 
@@ -46,11 +67,4 @@ Now, more than ever, have threats manifested themselves in our society. From phy
 - *I am not perfect, nor is my code...*
 - *I am maintaining the code for this blog, i.e. all front-end/back-end development work that renders the site you're visiting today, was partly configured by me, but largely developed by the vast open source developer community on Github.*
 
-This site is built using a custom theme for Jekyll, made by [Ben Centra][] called [Centrarium][]. All customizations to the theme files and blog post content are available on my GitHub repository - [MachineInit][]. If you'd like to explore the usage of Jekyll, an open source static site generator tool, review the extensive documentation available at [jekyllrb.com][].
-
-[centrarium]: https://github.com/bencentra/centrarium
-[Ben Centra]: http://bencentra.com
-[MachineInit]: https://github.com/mrmachine3/machineinit
-[jekyllrb.com]: http://jekyllrb.com/
-[jekyll]: https://github.com/jekyll/jekyll                                                                                                               
 [oreilly]: http://shop.oreilly.com/
