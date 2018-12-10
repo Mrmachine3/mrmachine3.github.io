@@ -8,12 +8,12 @@ permalink: /projects/
 
 ----
 
-##### [Raspberry Pi (RPi) - Security Camera](https://github.com/mrmachine3)
+##### [Raspberry Pi (RPi) - Security Camera](https://github.com/Mrmachine3/Kerberos_Cam/blob/master/README.md)
 This github repository contains project files related to building and deploying a Raspberyy Pi for use as a security camera with the ***[Kerberos.io] [2]*** operating system, which was developed as an open source video surveillance solution that works with any camera on every Linux based machine.
 
 ***
 
-##### [4RPi Cluster - ELK Stack](https://github.com/mrmachine3/)
+##### [4RPi Cluster - ELK Stack](https://github.com/Mrmachine3/4RPi_ELKstack/blob/master/README.md)
 This github repository contains project files related to building a four node Raspberry Pi cluster and automating the configuration of the cluster to host an Elasticsearch, Logstash, Kibana stack, commonly referred to as an ELK stack. The purpose of this is to monitor web traffic on my local area network (LAN) by analyzing packet captures and event logs from endpoint devices, such as routers, firewalls, and connected devices such as a ***[RPiZ security camera] [1]***.
 
 ***

@@ -10,10 +10,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-# Disqus Comments
-disqus:
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: machineinit
+# Talkyard Comments
+talkyard_server_url: https://comments-demo.talkyard.io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
