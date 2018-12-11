@@ -18,13 +18,13 @@ This github repository contains project files related to building a four node Ra
 
 ***
 #### Other Projects
-##### [RPi Kali Box](/images/wip.png)
+##### [RPi Kali Box](https://mrmachine3.github.io/404.html)
 <!--##### [RPi Kali Box](https://github.com/mrmachine3)-->
 *Project concept taken from* __*[Official Kali Website] [3]*__
 
 This project is intended to create a standalone, headless device that users can access remotely via secure shell (SSH) protocol to execute remote commands on the terminal. Example use cases could be to deploy the RPi within your own personal local area network and run packet analysis tools, like wireshark, netcat, kismet, or even custom python scripts.
 
-##### [Jupyter Droplet](https://github.com/mrmachine3)
+##### [Jupyter Droplet](https://mrmachine3.github.io/404.html)
 *Project concept taken from* __*[Digital Ocean Tutorials] [4]*__
 
 This project is intended to host an open source jupyter notebook web application on the cloud using Ditigal Ocean droplets. Example use cases could be to programmatically cleanse or transform network capture data or infrastructure event logs for data visualization or machine learning models.
