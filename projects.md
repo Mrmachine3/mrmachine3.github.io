@@ -18,8 +18,8 @@ This github repository contains project files related to building a four node Ra
 
 ***
 #### Other Projects
-
-##### [RPi Kali Box](https://github.com/mrmachine3)
+##### [RPi Kali Box](/images/wip.png)
+<!--##### [RPi Kali Box](https://github.com/mrmachine3)-->
 *Project concept taken from* __*[Official Kali Website] [3]*__
 
 This project is intended to create a standalone, headless device that users can access remotely via secure shell (SSH) protocol to execute remote commands on the terminal. Example use cases could be to deploy the RPi within your own personal local area network and run packet analysis tools, like wireshark, netcat, kismet, or even custom python scripts.
