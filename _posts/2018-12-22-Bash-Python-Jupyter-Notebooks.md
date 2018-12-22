@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bash and Python scripting with Jupyter Notebooks
+title: Bash and Python with Jupyter Notebooks
 comments: true
 permalink: /blog/
 ---
