@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Why Machine Init?! 
+date: 2018-12-9
 permalink: 
 ---
 <figure class="center">

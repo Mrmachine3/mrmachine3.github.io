@@ -2,6 +2,7 @@
 layout: default
 title: Bash and Python with Jupyter Notebooks
 comments: true
+date: 2018-12-22
 permalink:
 ---
 <figure class="center">
