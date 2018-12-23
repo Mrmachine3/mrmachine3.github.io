@@ -130,6 +130,20 @@ figure {
   width: 80%;
 }
 
+.mbtablestyle {
+  border-collapse: collapse;
+
+  table {
+    border: 2px solid black;
+    padding: 10px;
+  }
+  td, th {
+    border: 1px solid black;
+    padding: 10px;
+  }
+}
+
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
