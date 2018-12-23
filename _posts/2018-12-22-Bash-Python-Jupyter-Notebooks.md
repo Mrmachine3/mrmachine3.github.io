@@ -2,9 +2,13 @@
 layout: default
 title: Bash and Python with Jupyter Notebooks
 comments: true
-permalink: /blog/
+permalink:
 ---
-What's interesting about Jupyter Notebooks is that this web-based tool combines the convenience of having a markdown text editor and a bash/python command interpreter. Don't believe me...? Check out the following two commands that output ***Hello World***
+<figure class="center">
+<a href="/images/jupyter/jupyterlogo.png"><img alt="Jupyter logo" src="/images/jupyter/jupyterlogo.png" style="width:500px;height:150px;"></a>
+<figcaption><a href="/images/jupyter/jupyterlogo.png"><strong>Jupyter Notebooks</strong></a></figcaption>
+</figure>
+What's interesting about **[Jupyter Notebooks][1]** is that this web-based tool combines the convenience of having a markdown text editor and a bash/python command interpreter. Don't believe me...? Check out the following two commands that output *Hello World*
 
 ##### Python Code Snippet
 ![Jupyter Python Print code](/images/jupyter/print_python.png)
@@ -95,3 +99,5 @@ As mentioned previously, a pipe ```|``` takes the output from the ```ls -al``` c
 
 ## Conclusion 
 To wrap up this tutorial, I hope you now have a grasp of some very basic commands utilized in both python as well as in bash. These explanations are intended to give you a glimpse into the very simple, practical use cases. As you may notice, perhaps it is easier to combine some bash commands within your python notebooks, especially for purpose of navigating throughout your project directories. In a later post, I will review a bash script in greater detail to explain how the script is able to consolidate similarly formatted data files into one master data set.
+
+[1]: https://jupyter.org/ "Jupyter Notebooks"
