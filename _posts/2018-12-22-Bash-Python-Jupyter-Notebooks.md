@@ -17,7 +17,7 @@ What's interesting about **[Jupyter Notebooks][1]** is that this web-based tool 
 ##### Bash Command 
 ![Jupyter Bash Echo function](/images/jupyter/echo_bash.png)
 
-As you can tell, the first input command is a python built-in function that displays any text between the double quotation marks (" "). Similarly, the following command is another function called *echo*, which also displays any input that is contained within the double quotation marks (" ") to a standard output display. Notice that this command is prepended with an exlamation mark (!) to inform the kernel that the subsequent command is a bash command.
+As you can tell, the first input command is a python built-in function that displays any text between the double quotation marks (" "). Similarly, the following command is another function called *echo*, which also displays any input that is contained within the double quotation marks (" ") to a standard output display. Notice that this command is prepended with an exclamation mark (!) to inform the kernel that the subsequent command is a bash command.
 
 Let me preface the following explanations by saying that a unix/linux operating system treats all files and directories as files. Technically, a user's current directory (```.```) or parent directory (```..```) can be considered as files since they are located relative to a parent directory. This will hopefully make sense a bit further in this explanation when we reach the **File System Navigation** section below
 
