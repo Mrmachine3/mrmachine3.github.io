@@ -8,9 +8,8 @@ permalink: /projects/
 
 ----
 
-##### [Raspberry Pi (RPi) - Security Camera](https://github.com/Mrmachine3/Kerberos_Cam/blob/master/README.md)
-This github repository contains project files related to building and deploying a Raspberyy Pi for use as a security camera with the ***[Kerberos.io] [2]*** operating system, which was developed as an open source video surveillance solution that works with any camera on every Linux based machine.
-
+##### [Raspberry Pi (RPi) - Security Camera](https://github.com/Mrmachine3/RPiSec_Cam/blob/master/README.md)
+This github repository contains project files related to building and deploying a Raspberyy Pi for use as a security camera with the Raspbian opewith the Raspbian. The Raspberry Pi will host a Flask webserver that will serve the live video frames and also help control the pan-tilt server mechanism to remotely control the angle of the camera.
 ***
 
 ##### [4RPi Cluster - ELK Stack](https://github.com/Mrmachine3/4RPi_ELKstack/blob/master/README.md)
